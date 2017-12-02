@@ -1,3 +1,3 @@
 "# datatable-using-ajax-php" 
 
-"## Click cell for data update."
+"# Click cell for data update."
